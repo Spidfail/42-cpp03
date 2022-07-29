@@ -7,6 +7,6 @@ There is a Makefile for compiling (`make`) cleaning the project (`make clean`, `
 
 ## Tasks
 
-All of these exercises are meant to help us learn inheritance in O.O.P.. The first 3 exercises make us works on basis : overrite of functions and variables, `virtual` keyword and destructors' order.   
+All of these exercises are meant to help us learn inheritance in O.O.P.. The first 3 exercises make us works on basics : overrite of functions and variables, `virtual` keyword and destructors' order.   
 The last exercise is an approach to a C++ particularism : diamond inheritance and the problems or solutions it can brings.
 
